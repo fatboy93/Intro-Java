@@ -22,7 +22,7 @@ public class Project_2 {
 		F = input.nextDouble();
 		System.out.print("F to C: " + ConvertFtoCAndPrint(F));
 		System.out.print("\nDone!!!");
-		System.out.print("\nHAHAHAHA");
+		
 	}
 
 }
